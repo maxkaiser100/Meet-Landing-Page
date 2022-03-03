@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/mobile.png)
+![](./images/meet_preview.png)
 
 ### Links
 
