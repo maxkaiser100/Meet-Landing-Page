@@ -16,14 +16,14 @@ body {
     background-color: #fff;;
 }
 
-.topLogo {
+nav {
     display: flex;
     justify-content: center;
     margin: 0;
   
 }
 
-.topLogo img {
+nav img {
     margin: 2rem;
 }
 
